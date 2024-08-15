@@ -1,1 +1,38 @@
-{"sections":{"instant_uaua90os_l28_doidd_tgkMzy":{"type":"instant-Uaua90osL28DOIDD","settings":{"text_nTq7ngvNNRWWOlUt":"<p>SUCCESSFUL EVENTS<\/p>","text_z9UB1LPCuEKDUL0k":"<p>HIGHLIGHT OF SUMMER<\/p>","text_j9uK417EpqsR7k7b":"<p>subheader<\/p>","image_uEDsxOupUtf7zFsZ":"shopify:\/\/shop_images\/woman-poses-in-dark-room.jpg","image_AlpvbV5WEkPZdVyB":"shopify:\/\/shop_images\/studded-flats.jpg","image_wBD4unDjidp8cEij":"shopify:\/\/shop_images\/holding-coffee-in-bed.jpg","image_vWbLUHu3UuNbCyvw":"shopify:\/\/shop_images\/Screenshot_2024-07-25_001229.png","text_zWHVGTHf2eVfC8JO":"<p>ABOUT THE SUMMER EXPERIENCES<\/p>","text_yviPRlC13tL9Xnx7":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te\u2028mpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam\u2028, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons\u2028<\/p>","padding_top":0,"padding_bottom":0}}},"order":["instant_uaua90os_l28_doidd_tgkMzy"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "instant_uaua90os_l28_doidd_tgkMzy": {
+      "type": "instant-Uaua90osL28DOIDD",
+      "settings": {
+        "video_CZV3oTA9MHJFQBrU": "shopify:\/\/files\/videos\/Home Is.mp4",
+        "text_nTq7ngvNNRWWOlUt": "<p>EVENTS SUCCESSFUL<\/p>",
+        "text_z9UB1LPCuEKDUL0k": "<p>HIGHLIGHT OF SUMMER<\/p>",
+        "text_j9uK417EpqsR7k7b": "<p>subheader<\/p>",
+        "image_uEDsxOupUtf7zFsZ": "shopify:\/\/shop_images\/keke_cover.jpg",
+        "image_AlpvbV5WEkPZdVyB": "shopify:\/\/shop_images\/47650036_9a8cf251-e603-4615-bebc-e4c5d114eb57.jpg",
+        "image_wBD4unDjidp8cEij": "shopify:\/\/shop_images\/47600030.jpg",
+        "image_vWbLUHu3UuNbCyvw": "shopify:\/\/shop_images\/05400035.jpg",
+        "image_hyje5WY7d3Kj057q": "shopify:\/\/shop_images\/59610020.jpg",
+        "image_TMw9UcRuMbTgOvl2": "shopify:\/\/shop_images\/47650029_cc21dec4-8af8-4358-a3a3-a0df89c1ca81.jpg",
+        "image_A8T66zio7TyoTfII": "shopify:\/\/shop_images\/05400016.jpg",
+        "image_dZLJ0hOdBZIuHs8z": "shopify:\/\/shop_images\/59610017.jpg",
+        "image_Hv8D3RsAYkFrmyUL": "shopify:\/\/shop_images\/small-business-interior.jpg",
+        "text_zWHVGTHf2eVfC8JO": "<p>ABOUT THE SUMMER EXPERIENCES<\/p>",
+        "text_yviPRlC13tL9Xnx7": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te\u2028mpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam\u2028, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons\u2028<\/p>",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "instant_uaua90os_l28_doidd_tgkMzy"
+  ]
+}
